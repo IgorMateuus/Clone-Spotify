@@ -1,5 +1,5 @@
 # Clone-Spotify 🎵
-Um clone do Spotify feito com amor e carinho para fins de estudo e prática. Foi criado durante a imersão da Alura.
+Um clone do Spotify feito com amor e carinho para fins de estudo e prática.
 
 ## Sobre o Projeto
 Este projeto é uma réplica do Spotify, feita para fins de estudo e prática. O objetivo é criar uma aplicação que seja semelhante ao Spotify, com funcionalidades como: busca de artistas e playlists.
